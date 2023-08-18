@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusv8b/)
 
 ### 🚀Estatísticas do GitHub🚀
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusv8b&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
