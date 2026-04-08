@@ -6,14 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-de-jesus-5a61b5256/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusv8b/)
 
-<div align="center">
-  
-  ![Working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q5aGxydGFna3hkdTJ0Zmp6aXZxY2g5cGp1cG8wdWZvN2Z6c2ZqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif)
-  
-  ## 🏢 **Prati Donaduzzi** | **Analista de Sistemas da Informação** 🚀
-  
-</div>
-
 ### 👨‍💻Technologies of my use👨‍💻
 
 <div style="display: inline_block"><br/>
@@ -27,6 +19,14 @@
 ### 📊Data Analysis📊
 
 <div style="display: inline_block"><br/>
+
+  <div align="center">
+  
+  ![Working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q5aGxydGFna3hkdTJ0Zmp6aXZxY2g5cGp1cG8wdWZvN2Z6c2ZqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif)
+  
+  ## 🏢 **Prati Donaduzzi** | **Analista de Sistemas da Informação** 🚀
+
+</div>
   <img align="center" alt="power bi" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
