@@ -8,10 +8,9 @@
 
 <div align="center">
   
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ### 💼 **Prati Donaduzzi** 💼
-  ### 👨‍💻 **Analista de Sistemas da Informação** 👨‍💻
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ![Working](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q5aGxydGFna3hkdTJ0Zmp6aXZxY2g5cGp1cG8wdWZvN2Z6c2ZqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif)
+  
+  ## 🏢 **Prati Donaduzzi** | **Analista de Sistemas da Informação** 🚀
   
 </div>
 
